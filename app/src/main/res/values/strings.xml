@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APP EILINGER</string>
+    <string name="txtv1">MOBCOM1\nACTIVITIES AND INTENTS</string>
+    <string name="GOOGLE">google</string>
+    <string name="DIALER">dialer</string>
+    <string name="EMAIL">e-mail</string>
+    <string name="CAMERA">camera</string>
+    <string name="TOAST">toast</string>
+    <string name="NEXT">next</string>
+
+
+
+
+
+    <string name="btnlableback">back</string>
+</resources>
